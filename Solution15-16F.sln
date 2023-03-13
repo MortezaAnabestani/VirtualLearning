@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{41CD99B6-6AA3-45FA-AD04-1FF5624BC912}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{D47065DA-9E83-4AD0-ADD0-C820E8BECB03}"
+	ProjectSection(SolutionItems) = preProject
+		E:\Programming Exercises\Css&html\solution 15-16\fonts\RoyaB.woff = E:\Programming Exercises\Css&html\solution 15-16\fonts\RoyaB.woff
+		E:\Programming Exercises\Css&html\solution 15-16\fonts\RoyaR.woff = E:\Programming Exercises\Css&html\solution 15-16\fonts\RoyaR.woff
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E8AF45-9C5E-4EF1-BE6E-056551B4D5A8}
+	EndGlobalSection
+EndGlobal
